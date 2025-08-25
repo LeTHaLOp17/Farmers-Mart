@@ -1,9 +1,4 @@
 # Farmers-Mart
-Here is a professional and well-structured README template in English for your Farmers-Mart project:
-
-***
-
-# Farmers-Mart
 
 ## About The Project
 Farmers-Mart is a web-based marketplace platform that connects farmers directly with consumers. This project aims to help farmers sell their produce without intermediaries, ensuring better prices and fresh products for buyers.
