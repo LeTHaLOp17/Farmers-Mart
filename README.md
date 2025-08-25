@@ -27,15 +27,27 @@ Farmers-Mart is a web-based marketplace platform that connects farmers directly 
    ```bash
    cd Farmers-Mart
    ```
-3. Install dependencies:
+3. Navigate to the project folder:
+   ```bash
+   cd client
+   ```
+4. Install dependencies:
    ```bash
    npm install
    ```
-4. Start the development server:
+5. Navigate to the project folder:
+   ```bash
+   cd server
+   ```
+6. Install dependencies:
+   ```bash
+   npm install
+   ```
+7. Start the development server:
    ```bash
    npm start
    ```
-5. Open http://localhost:3000 in your browser.
+8. Open http://localhost:3000 in your browser.
 
 ## Usage
 - Register as a new user (farmer or buyer).
@@ -45,8 +57,6 @@ Farmers-Mart is a web-based marketplace platform that connects farmers directly 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request. Use the Issues section for bug reports or feature requests.
 
-## License
-This project is licensed under the MIT License.
 
 ***
 
