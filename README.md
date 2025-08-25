@@ -59,16 +59,3 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 
 ***
-
-If any specific details or technologies are to be added or customized, please let me know!
-
-[1](https://github.com/othneildrew/Best-README-Template)
-[2](https://github.com/topics/readme-template)
-[3](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
-[4](https://www.readme-templates.com)
-[5](https://everhour.com/blog/github-readme-template/)
-[6](https://www.makeareadme.com)
-[7](https://readme.so)
-[8](https://github.com/matiassingers/awesome-readme)
-[9](https://github.com/topics/readme)
-[10](https://github.com/topics/github-profile-readme)
